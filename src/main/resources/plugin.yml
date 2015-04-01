@@ -1,0 +1,5 @@
+name: LavaSponge
+description: Absorb lava with sponges
+version: ${version}
+author: Byteflux
+main: net.minelink.lavasponge.LavaSponge
